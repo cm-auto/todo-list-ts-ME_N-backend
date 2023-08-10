@@ -1,0 +1,14 @@
+# Dependency directories
+node_modules/
+
+# Build artifacts
+out/
+
+# Environment variables
+.env
+
+# IDE files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
